@@ -16,11 +16,12 @@
             android:layout_weight="1.5"
             android:id="@+id/button_space" />
 
-        <include layout="@layout/header_base"
+        <include
+            layout="@layout/header_base"
             android:layout_width="0dp"
             android:layout_height="match_parent"
-            android:layout_weight="8"/>
+            android:layout_weight="8" />
 
-</LinearLayout>
+    </LinearLayout>
 
-    </LinearLayout><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView_Alpha/app/src/main/res/layout/header_nobutton.xml -->
+</LinearLayout><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/layout/header_nobutton.xml -->

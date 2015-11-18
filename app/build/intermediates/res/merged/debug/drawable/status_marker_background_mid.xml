@@ -3,4 +3,4 @@
     android:shape="rectangle">
     <solid android:color="@color/mode_background_mid"/>
     <stroke android:width="2dp" android:color="@color/black" />
-</shape><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView_Alpha/app/src/main/res/drawable/status_marker_background_mid.xml -->
+</shape><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/drawable/status_marker_background_mid.xml -->
