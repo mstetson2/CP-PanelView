@@ -14,12 +14,12 @@
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1.5"
-            android:background="@drawable/nav_button_background"
-            android:text="Main Menu"
+            android:background="@drawable/nav_button_background_disabled"
+            android:text="Screen Select"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textStyle="bold"
             android:onClick="gotoMainMenu"
-            android:id="@+id/return_button" />
+            android:id="@+id/btnScreenSelect" />
 
         <include
             layout="@layout/header_base"
@@ -29,4 +29,4 @@
 
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/layout/header.xml -->
+</LinearLayout>

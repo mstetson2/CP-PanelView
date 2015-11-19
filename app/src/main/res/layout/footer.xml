@@ -10,19 +10,8 @@
         android:layout_height="0dp"
         android:layout_weight="1">
 
-        <Button
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="1.5"
-            android:background="@drawable/nav_button_background"
-            android:text="Main Menu"
-            android:textAppearance="?android:attr/textAppearanceMedium"
-            android:textStyle="bold"
-            android:onClick="gotoMainMenu"
-            android:id="@+id/return_button" />
-
         <include
-            layout="@layout/header_base"
+            layout="@layout/footer_m"
             android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="8" />
