@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/w_button_horizontal_margin"
+    android:paddingRight="@dimen/w_button_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.mstetson.nolimitspanelview.panelViewScreens.ScreenSelect">
+
+    <include layout="@layout/header"
+        android:id="@+id/header" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/header"
+        android:id="@+id/scrollView" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/legend_background"
+                android:orientation="horizontal"
+                android:id="@+id/appendix_a_background">
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="RIDE OPERATIONS"
+                    android:textColor="@color/white"
+                    android:id="@+id/operations_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="E-STOP STATUS"
+                    android:textColor="@color/white"
+                    android:id="@+id/estop_status_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="STASTICS"
+                    android:textColor="@color/white"
+                    android:id="@+id/stastics_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:orientation="horizontal"
+                android:background="@drawable/legend_background"
+                android:paddingLeft="10dp"
+                android:paddingRight="20dp"
+                android:paddingTop="30dp"
+                android:paddingBottom="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textColor="@color/black"
+                    android:id="@+id/appendix_b_label_description" />
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="ERROR STATUS"
+                    android:textColor="@color/white"
+                    android:id="@+id/trouble_status_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="INSPECTIONS"
+                    android:textColor="@color/white"
+                    android:id="@+id/inspections_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:onClick="gotoInspections" />
+
+                <Button
+                    android:layout_width="@dimen/nav_button_width"
+                    android:layout_height="@dimen/nav_button_height"
+                    android:text="FUNCTIONS"
+                    android:textColor="@color/white"
+                    android:id="@+id/set_functions_button"
+                    android:background="@drawable/nav_button_background"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+
+            </LinearLayout>
+
+
+
+
+            <Button
+                android:layout_width="600dp"
+                android:layout_height="140dp"
+                android:background="@drawable/legend_background"
+                android:id="@+id/appendix_c_background"
+                android:layout_marginTop="5dp"
+               />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:background="@color/panelview_background"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:text="Appendix C"
+                android:id="@+id/appendix_c_label"
+                android:layout_alignTop="@+id/appendix_c_background"
+                android:layout_alignParentStart="true"
+                android:layout_marginTop="@dimen/append_title_margin_top"
+                android:layout_marginLeft="@dimen/append_title_margin_left"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:textColor="@color/black"
+                android:id="@+id/appendix_c_label_description"
+                android:layout_alignTop="@+id/appendix_c_label"
+                android:layout_toEndOf="@+id/appendix_c_label"
+                android:layout_marginLeft="10dp"/>
+
+            <Button
+                android:layout_width="@dimen/nav_button_width"
+                android:layout_height="@dimen/nav_button_height"
+                android:text="Diagnostics"
+                android:textColor="@color/white"
+                android:id="@+id/diagnostics_button"
+                android:background="@drawable/nav_button_background"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@id/appendix_c_label"
+                android:layout_alignLeft="@id/appendix_c_background"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"/>
+
+            <Button
+                android:layout_width="@dimen/nav_button_width"
+                android:layout_height="@dimen/nav_button_height"
+                android:text="Troubleshoot"
+                android:textColor="@color/white"
+                android:id="@+id/troubleshoot_button"
+                android:background="@drawable/nav_button_background"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:layout_below="@id/appendix_c_label"
+                android:layout_toRightOf="@id/diagnostics_button"
+                android:layout_marginLeft="15dp"
+                android:layout_marginTop="10dp"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

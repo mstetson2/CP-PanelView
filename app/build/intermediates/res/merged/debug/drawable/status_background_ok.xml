@@ -3,4 +3,4 @@
     android:shape="rectangle">
     <solid android:color="@color/e_stop_status_okay"/>
     <stroke android:width="5dp" android:color="@color/status_ok_border" />
-</shape><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/drawable/status_background_ok.xml -->
+</shape>

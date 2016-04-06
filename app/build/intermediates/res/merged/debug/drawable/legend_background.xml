@@ -4,7 +4,7 @@
         <shape android:shape="rectangle">
 
             <padding android:left="6dp"
-                android:top="10dp"
+                android:top="15dp"
                 android:right="6dp"
                 android:bottom="6dp"/>
 
@@ -32,17 +32,4 @@
         </shape>
     </item>
 
-    <!--
-
-    <item >
-        <shape android:shape="rectangle">
-            <gradient android:startColor="#37c325"
-                android:endColor="#2573c3"
-                android:angle="-90"/>
-
-        </shape>
-    </item>
-
--->
-
-</layer-list><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/drawable/legend_background.xml -->
+</layer-list>

@@ -2,7 +2,9 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:orientation="vertical">
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="com.mstetson.nolimitspanelview.panelViewScreens.ScreenSelect">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -15,10 +17,10 @@
             android:layout_height="match_parent"
             android:layout_weight="1.5"
             android:background="@drawable/nav_button_background"
-            android:text="Main Menu"
+            android:text="Return"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textStyle="bold"
-            android:onClick="gotoMainMenu"
+            android:onClick="returnPressed"
             android:id="@+id/return_button" />
 
         <include
@@ -29,4 +31,4 @@
 
     </LinearLayout>
 
-</LinearLayout><!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/layout/header.xml -->
+</LinearLayout>

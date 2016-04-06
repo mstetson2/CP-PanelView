@@ -52,8 +52,8 @@
             android:id="@+id/textClockWelcome"
             android:textColor="@color/black"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:format12Hour="''EEEE, MMMM dd, yyyy"
-            android:format24Hour="''EEEE, MMMM dd, yyyy"
+            android:format12Hour="EEEE, MMMM dd, yyyy"
+            android:format24Hour="EEEE, MMMM dd, yyyy"
             android:layout_below="@id/welcomeText"
             android:layout_centerHorizontal="true" />
 
@@ -79,4 +79,3 @@
     </RelativeLayout>
 
 </RelativeLayout>
-<!-- From: file:/D:/dev/Projects/ControlPanel/PanelView/Alpha/PanelView-Alpha/app/src/main/res/layout/activity_main_menu.xml -->

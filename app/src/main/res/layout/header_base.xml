@@ -24,6 +24,7 @@
             android:layout_marginStart="5dp"
             android:layout_weight="1"
             android:background="@drawable/status_background_mid"
+            android:onClick="gotoError"
             android:orientation="vertical">
 
             <TextView
@@ -54,6 +55,7 @@
             android:layout_marginStart="5dp"
             android:layout_weight="1"
             android:background="@drawable/status_background_ok"
+            android:onClick="gotoEstop"
             android:orientation="vertical">
 
             <TextView

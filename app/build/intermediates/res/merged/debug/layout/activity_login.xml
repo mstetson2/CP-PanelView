@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.mstetson.panelview_alpha.Screens.LoginActivity">
+
+    <include layout="@layout/header" />
+
+    <LinearLayout
+        android:id="@+id/footer"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnProperties"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:background="@drawable/nav_button_background"
+            android:onClick="returnPressed"
+            android:text="Coaster Properties"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+
+        <TableLayout
+            android:id="@+id/connectionsTable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="6"
+            android:gravity="center">
+
+            <TableRow android:gravity="center">
+
+                <TextView
+                    android:id="@+id/panelTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Control Panel Connection: "
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/panelConnectionText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NOT CONNECTED"
+                    android:textColor="@color/red"></TextView>
+            </TableRow>
+
+            <TableRow android:gravity="center">
+
+                <TextView
+                    android:id="@+id/bluetoothTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Bluetooth Connection: "
+                    android:textColor="@color/black">
+
+                </TextView>
+
+                <TextView
+                    android:id="@+id/bluetoothConnectionText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NOT CONNECTED"
+                    android:textColor="@color/red"></TextView>
+            </TableRow>
+
+            <TableRow android:gravity="center">
+
+                <TextView
+                    android:id="@+id/simulatorTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/black"
+                    android:text="Simulator Connection: "></TextView>
+
+                <TextView
+                    android:id="@+id/simulatorConnectionText"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NOT CONNECTED"
+                    android:textColor="@color/red"></TextView>
+            </TableRow>
+        </TableLayout>
+
+        <Button
+            android:id="@+id/btnBluetooth"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.5"
+            android:background="@drawable/nav_button_background"
+            android:onClick="returnPressed"
+            android:text="Connect Bluetooth"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+    <TableLayout
+        android:id="@+id/tableLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/footer"
+        android:layout_alignParentStart="true"
+        android:gravity="center">
+
+        <TableRow android:gravity="center">
+
+            <TextView
+                android:id="@+id/profileTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Current Proile: "
+                android:textColor="@color/black">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/currentProfileText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UNKNOWN"
+                android:textColor="@color/red"></TextView>
+        </TableRow>
+
+        <TableRow android:gravity="center">
+
+            <TextView
+                android:id="@+id/coasterTypeTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Current Coaster Type:   "
+                android:textColor="@color/black">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/coasterTypeText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="UNKNOWN"
+                android:textColor="@color/red"></TextView>
+        </TableRow>
+
+    </TableLayout>
+
+</RelativeLayout>

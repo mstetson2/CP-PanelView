@@ -52,8 +52,8 @@
             android:id="@+id/textClockWelcome"
             android:textColor="@color/black"
             android:textAppearance="?android:attr/textAppearanceMedium"
-            android:format12Hour="''EEEE, MMMM dd, yyyy"
-            android:format24Hour="''EEEE, MMMM dd, yyyy"
+            android:format12Hour="EEEE, MMMM dd, yyyy"
+            android:format24Hour="EEEE, MMMM dd, yyyy"
             android:layout_below="@id/welcomeText"
             android:layout_centerHorizontal="true" />
 
