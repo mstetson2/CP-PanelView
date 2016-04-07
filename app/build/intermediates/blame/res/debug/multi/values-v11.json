@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 239,
+                        "startOffset": 286,
                         "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 653
+                        "endOffset": 700
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 658,
+                        "startOffset": 705,
                         "endLine": 15,
                         "endColumn": 12,
-                        "endOffset": 1078
+                        "endOffset": 1125
                     }
                 }
             },
@@ -54,14 +54,14 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1083,
+                        "startOffset": 1130,
                         "endLine": 21,
                         "endColumn": 12,
-                        "endOffset": 1506
+                        "endOffset": 1553
                     }
                 }
             },
@@ -75,14 +75,14 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1511,
+                        "startOffset": 1558,
                         "endLine": 27,
                         "endColumn": 12,
-                        "endOffset": 1932
+                        "endOffset": 1979
                     }
                 }
             },
@@ -93,17 +93,17 @@
                     "startOffset": 1753,
                     "endLine": 31,
                     "endColumn": 12,
-                    "endOffset": 2175
+                    "endOffset": 2177
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1937,
+                        "startOffset": 1984,
                         "endLine": 33,
                         "endColumn": 12,
-                        "endOffset": 2359
+                        "endOffset": 2408
                     }
                 }
             },
@@ -111,20 +111,20 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2180,
+                    "startOffset": 2182,
                     "endLine": 37,
                     "endColumn": 12,
-                    "endOffset": 2600
+                    "endOffset": 2602
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 2364,
+                        "startOffset": 2413,
                         "endLine": 39,
                         "endColumn": 12,
-                        "endOffset": 2784
+                        "endOffset": 2833
                     }
                 }
             },
@@ -132,79 +132,41 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2605,
-                    "endColumn": 88,
-                    "endOffset": 2689
+                    "startOffset": 2607,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3023
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 2968,
-                        "endColumn": 88,
-                        "endOffset": 3052
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 2694,
-                    "endColumn": 100,
-                    "endOffset": 2790
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 4,
-                        "startOffset": 3057,
-                        "endColumn": 100,
-                        "endOffset": 3153
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 2795,
-                    "endLine": 44,
-                    "endColumn": 12,
-                    "endOffset": 3198
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 44,
-                        "startColumn": 4,
-                        "startOffset": 3158,
-                        "endLine": 48,
+                        "startOffset": 3064,
+                        "endLine": 47,
                         "endColumn": 12,
-                        "endOffset": 3561
+                        "endOffset": 3480
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3203,
+                    "startOffset": 3028,
                     "endLine": 49,
                     "endColumn": 12,
-                    "endOffset": 3618
+                    "endOffset": 3458
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
-                        "startLine": 49,
+                        "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 3566,
+                        "startOffset": 3485,
                         "endLine": 53,
                         "endColumn": 12,
-                        "endOffset": 3981
+                        "endOffset": 3915
                     }
                 }
             },
@@ -212,79 +174,20 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 3623,
-                    "endLine": 51,
+                    "startOffset": 3463,
+                    "endLine": 55,
                     "endColumn": 12,
-                    "endOffset": 3725
+                    "endOffset": 3891
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
-                        "startLine": 56,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 4165,
-                        "endLine": 57,
-                        "endColumn": 12,
-                        "endOffset": 4267
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 3730,
-                    "endLine": 53,
-                    "endColumn": 12,
-                    "endOffset": 3854
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 58,
-                        "startColumn": 4,
-                        "startOffset": 4272,
+                        "startOffset": 3920,
                         "endLine": 59,
                         "endColumn": 12,
-                        "endOffset": 4396
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 3859,
-                    "endColumn": 70,
-                    "endOffset": 3925
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 62,
-                        "startColumn": 4,
-                        "startOffset": 4580,
-                        "endColumn": 70,
-                        "endOffset": 4646
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 3930,
-                    "endColumn": 82,
-                    "endOffset": 4008
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 63,
-                        "startColumn": 4,
-                        "startOffset": 4651,
-                        "endColumn": 82,
-                        "endOffset": 4729
+                        "endOffset": 4348
                     }
                 }
             },
@@ -292,60 +195,245 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 4013,
-                    "endLine": 106,
+                    "startOffset": 3896,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 7716
+                    "endOffset": 4338
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
-                        "startLine": 64,
+                        "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 4734,
-                        "endLine": 114,
+                        "startOffset": 4353,
+                        "endLine": 65,
                         "endColumn": 12,
-                        "endOffset": 8437
+                        "endOffset": 4795
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 7721,
-                    "endLine": 158,
-                    "endColumn": 12,
-                    "endOffset": 11564
+                    "startOffset": 4343,
+                    "endColumn": 77,
+                    "endOffset": 4416
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
-                        "startLine": 115,
+                        "startLine": 66,
                         "startColumn": 4,
-                        "startOffset": 8442,
-                        "endLine": 166,
-                        "endColumn": 12,
-                        "endOffset": 12285
+                        "startOffset": 4800,
+                        "endColumn": 77,
+                        "endOffset": 4873
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 11569,
-                    "endColumn": 90,
-                    "endOffset": 11655
+                    "startOffset": 4421,
+                    "endColumn": 91,
+                    "endOffset": 4508
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
                     "position": {
-                        "startLine": 169,
+                        "startLine": 67,
                         "startColumn": 4,
-                        "startOffset": 12469,
-                        "endColumn": 90,
-                        "endOffset": 12555
+                        "startOffset": 4878,
+                        "endColumn": 91,
+                        "endOffset": 4965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4513,
+                    "endColumn": 89,
+                    "endOffset": 4598
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 4970,
+                        "endColumn": 89,
+                        "endOffset": 5055
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4603,
+                    "endLine": 175,
+                    "endColumn": 12,
+                    "endOffset": 11892
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5060,
+                        "endLine": 179,
+                        "endColumn": 12,
+                        "endOffset": 12349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 11897,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 11999
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 12580,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 12682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 12004,
+                    "endLine": 179,
+                    "endColumn": 12,
+                    "endOffset": 12128
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 12687,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 12811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 12133,
+                    "endLine": 184,
+                    "endColumn": 12,
+                    "endOffset": 12492
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 12816,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 13175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 12497,
+                    "endLine": 234,
+                    "endColumn": 12,
+                    "endOffset": 16230
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 13406,
+                        "endLine": 242,
+                        "endColumn": 12,
+                        "endOffset": 17139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 16235,
+                    "endLine": 284,
+                    "endColumn": 12,
+                    "endOffset": 19982
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 243,
+                        "startColumn": 4,
+                        "startOffset": 17144,
+                        "endLine": 292,
+                        "endColumn": 12,
+                        "endOffset": 20891
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 19987,
+                    "endLine": 335,
+                    "endColumn": 12,
+                    "endOffset": 23859
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 293,
+                        "startColumn": 4,
+                        "startOffset": 20896,
+                        "endLine": 343,
+                        "endColumn": 12,
+                        "endOffset": 24768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 23864,
+                    "endLine": 386,
+                    "endColumn": 12,
+                    "endOffset": 27750
+                },
+                "from": {
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-v11\\values.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 4,
+                        "startOffset": 24773,
+                        "endLine": 394,
+                        "endColumn": 12,
+                        "endOffset": 28659
                     }
                 }
             }

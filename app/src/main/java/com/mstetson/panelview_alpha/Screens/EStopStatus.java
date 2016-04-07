@@ -41,7 +41,7 @@ public class EStopStatus extends Activity {
     public void gotoEstop(View view) {
         startActivity(new Intent(getApplicationContext(), EStopStatus.class));
     }
-    public void returnPressed(View view) {
+    public void gotoMenu(View view) {
         onBackPressed();
         finish();
     }

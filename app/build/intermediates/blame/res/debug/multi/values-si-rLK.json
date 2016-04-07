@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\res\\merged\\debug\\values-si-rLK\\values-si-rLK.xml",
+        "outputFile": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\res\\merged\\debug\\values-si-rLK\\values-si-rLK.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 160
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 233,
+                        "startOffset": 280,
                         "endColumn": 109,
-                        "endOffset": 338
+                        "endOffset": 385
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 268
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 343,
+                        "startOffset": 390,
                         "endColumn": 107,
-                        "endOffset": 446
+                        "endOffset": 493
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 391
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 451,
+                        "startOffset": 498,
                         "endColumn": 122,
-                        "endOffset": 569
+                        "endOffset": 616
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 498
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 574,
+                        "startOffset": 621,
                         "endColumn": 106,
-                        "endOffset": 676
+                        "endOffset": 723
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 605
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 681,
+                        "startOffset": 728,
                         "endColumn": 106,
-                        "endOffset": 783
+                        "endOffset": 830
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 693
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 788,
+                        "startOffset": 835,
                         "endColumn": 87,
-                        "endOffset": 871
+                        "endOffset": 918
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 798
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 876,
+                        "startOffset": 923,
                         "endColumn": 104,
-                        "endOffset": 976
+                        "endOffset": 1023
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 914
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 981,
+                        "startOffset": 1028,
                         "endColumn": 115,
-                        "endOffset": 1092
+                        "endOffset": 1139
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 919,
-                    "endColumn": 88,
-                    "endOffset": 1003
+                    "endColumn": 108,
+                    "endOffset": 1023
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1097,
-                        "endColumn": 88,
-                        "endOffset": 1181
+                        "startOffset": 1144,
+                        "endColumn": 108,
+                        "endOffset": 1248
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1008,
-                    "endColumn": 86,
-                    "endOffset": 1090
+                    "startOffset": 1028,
+                    "endColumn": 104,
+                    "endOffset": 1128
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1186,
-                        "endColumn": 86,
-                        "endOffset": 1268
+                        "startOffset": 1253,
+                        "endColumn": 104,
+                        "endOffset": 1353
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1095,
-                    "endColumn": 83,
-                    "endOffset": 1174
+                    "startOffset": 1133,
+                    "endColumn": 97,
+                    "endOffset": 1226
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1273,
-                        "endColumn": 83,
-                        "endOffset": 1352
+                        "startOffset": 1358,
+                        "endColumn": 97,
+                        "endOffset": 1451
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1179,
-                    "endColumn": 108,
-                    "endOffset": 1283
+                    "startOffset": 1231,
+                    "endColumn": 109,
+                    "endOffset": 1336
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1357,
-                        "endColumn": 108,
-                        "endOffset": 1461
+                        "startOffset": 1456,
+                        "endColumn": 109,
+                        "endOffset": 1561
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1288,
-                    "endColumn": 104,
-                    "endOffset": 1388
+                    "startOffset": 1341,
+                    "endColumn": 98,
+                    "endOffset": 1435
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1466,
-                        "endColumn": 104,
-                        "endOffset": 1566
+                        "startOffset": 1566,
+                        "endColumn": 98,
+                        "endOffset": 1660
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1393,
-                    "endColumn": 97,
-                    "endOffset": 1486
+                    "startOffset": 1440,
+                    "endColumn": 105,
+                    "endOffset": 1541
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1571,
-                        "endColumn": 97,
-                        "endOffset": 1664
+                        "startOffset": 1665,
+                        "endColumn": 105,
+                        "endOffset": 1766
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1491,
-                    "endColumn": 109,
-                    "endOffset": 1596
+                    "startOffset": 1546,
+                    "endColumn": 120,
+                    "endOffset": 1662
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1669,
-                        "endColumn": 109,
-                        "endOffset": 1774
+                        "startOffset": 1771,
+                        "endColumn": 120,
+                        "endOffset": 1887
                     }
                 }
             },
@@ -291,94 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1601,
+                    "startOffset": 1667,
                     "endColumn": 98,
-                    "endOffset": 1695
+                    "endOffset": 1761
                 },
                 "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
+                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Workspace\\CP-PanelView\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-si-rLK\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1779,
+                        "startOffset": 1892,
                         "endColumn": 98,
-                        "endOffset": 1873
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1700,
-                    "endColumn": 105,
-                    "endOffset": 1801
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1878,
-                        "endColumn": 105,
-                        "endOffset": 1979
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 1806,
-                    "endColumn": 120,
-                    "endOffset": 1922
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 1984,
-                        "endColumn": 120,
-                        "endOffset": 2100
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 1927,
-                    "endColumn": 98,
-                    "endOffset": 2021
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2105,
-                        "endColumn": 98,
-                        "endOffset": 2199
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2026,
-                    "endColumn": 100,
-                    "endOffset": 2122
-                },
-                "from": {
-                    "file": "C:\\dev\\Projects\\ControlPanel\\PanelView\\Alpha\\PanelView-Alpha\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-si-rLK\\values-si-rLK.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2204,
-                        "endColumn": 100,
-                        "endOffset": 2300
+                        "endOffset": 1986
                     }
                 }
             }

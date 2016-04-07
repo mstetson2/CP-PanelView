@@ -32,6 +32,8 @@
         </activity>
         <activity android:name=".Screens.InspectionsActivity" >
         </activity>
+        <activity android:name=".Screens.LoginActivity" >
+        </activity>
     </application>
 
 </manifest>

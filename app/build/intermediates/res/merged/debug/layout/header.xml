@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
-    tools:context="com.mstetson.nolimitspanelview.panelViewScreens.ScreenSelect">
+    tools:context="com.mstetson.panelview_alpha.MainMenu">
 
     <LinearLayout
         android:orientation="horizontal"
@@ -17,11 +17,11 @@
             android:layout_height="match_parent"
             android:layout_weight="1.5"
             android:background="@drawable/nav_button_background"
-            android:text="Return"
+            android:text="GOTO\nMAIN MENU"
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textStyle="bold"
-            android:onClick="returnPressed"
-            android:id="@+id/return_button" />
+            android:onClick="gotoMenu"
+            android:id="@+id/gotomenu_button" />
 
         <include
             layout="@layout/header_base"

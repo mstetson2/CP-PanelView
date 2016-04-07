@@ -1,0 +1,2 @@
+CHANGED,C:\dev\Projects\ControlPanel\PanelView\Workspace\CP-PanelView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\mstetson\panelview_alpha\MainMenu$override.class
+CHANGED,C:\dev\Projects\ControlPanel\PanelView\Workspace\CP-PanelView\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

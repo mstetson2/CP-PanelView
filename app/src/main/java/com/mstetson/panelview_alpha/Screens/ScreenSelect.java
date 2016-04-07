@@ -13,10 +13,7 @@ import com.mstetson.panelview_alpha.R;
 
 public class ScreenSelect extends Activity {
 
-    Button appendixA;
-    Button appendixB;
-    Button appendixC;
-    Button appendixD;
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,35 +23,27 @@ public class ScreenSelect extends Activity {
         TextView currentScreen = (TextView) findViewById(R.id.current_screen);
         currentScreen.setText("Screen Select");
 
-       // appendixA = (Button) findViewById(R.id.appendix_a_background);
-       // appendixB = (Button) findViewById(R.id.appendix_b_background);
-       // appendixC = (Button) findViewById(R.id.appendix_c_background);
-        ////appendixD = (Button) findViewById(R.id.appendix_d_background);
-
         makeFullscreen();
 
     }
 
-    public void gotoInspections(View view) {
-        startActivity(new Intent(getApplicationContext(), InspectionsActivity.class));
-    }
-
-
-
-
-
-
-    public void returnPressed(View view) {
-        //startActivity(new Intent(getApplicationContext(), MainMenu.class));
-        //finish();
-        onBackPressed();
-    }
     //Hides nav and notification bar
     public void makeFullscreen() {
         View decorView = getWindow().getDecorView();
         int uiOptions = View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY;
         decorView.setSystemUiVisibility(uiOptions);
     }
+
+    public void gotoInspections(View view) {
+        startActivity(new Intent(getApplicationContext(), InspectionsActivity.class));
+    }
+
+    public void gotoMenu(View view) {
+        startActivity(new Intent(getApplicationContext(), MainMenu.class));
+        finish();
+        //onBackPressed();
+    }
+
     public void gotoScreenSelect(View view) {
         startActivity(new Intent(getApplicationContext(), ScreenSelect.class));
         // finish();
